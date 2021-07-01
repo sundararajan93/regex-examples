@@ -19,6 +19,7 @@ $ Ends with "world$"
 
 # More Special Characters
 
+```
 \d : Matches any decimal digit; [0-9]
 \D : Matches any non-digit character;
 \s : Matches any whitespace character; (space " " tab  "\t" newline "\n")
@@ -27,6 +28,7 @@ $ Ends with "world$"
 \W: Matches any non-alphanumeric character;
 \b : Matches where the specified characters are at the beginning or at the end of a word
 \B: Matches where the specified characters are present, but NOT at the beginning or end
+```
 
 # Quantifier
 
